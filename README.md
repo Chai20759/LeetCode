@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chai20759/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Chai20759/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Chai20759/LeetCode/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Chai20759/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0486-predict-the-winner](https://github.com/Chai20759/LeetCode/tree/master/0486-predict-the-winner) |
 ## String
 |  |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Chai20759/LeetCode/tree/master/0486-predict-the-winner) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Chai20759/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
