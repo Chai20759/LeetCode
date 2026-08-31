@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Chai20759/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Chai20759/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0486-predict-the-winner](https://github.com/Chai20759/LeetCode/tree/master/0486-predict-the-winner) |
+| [0941-valid-mountain-array](https://github.com/Chai20759/LeetCode/tree/master/0941-valid-mountain-array) |
 ## String
 |  |
 | ------- |
