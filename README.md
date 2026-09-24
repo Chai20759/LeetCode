@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Chai20759/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Chai20759/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Chai20759/LeetCode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/Chai20759/LeetCode/tree/master/0066-plus-one) |
 | [0410-split-array-largest-sum](https://github.com/Chai20759/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/Chai20759/LeetCode/tree/master/0486-predict-the-winner) |
 | [0875-koko-eating-bananas](https://github.com/Chai20759/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Chai20759/LeetCode/tree/master/0066-plus-one) |
 | [0486-predict-the-winner](https://github.com/Chai20759/LeetCode/tree/master/0486-predict-the-winner) |
 ## Dynamic Programming
 |  |
