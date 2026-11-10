@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chai20759/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Chai20759/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Chai20759/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Chai20759/LeetCode/tree/master/0217-contains-duplicate) |
 | [0410-split-array-largest-sum](https://github.com/Chai20759/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/Chai20759/LeetCode/tree/master/0486-predict-the-winner) |
 | [0875-koko-eating-bananas](https://github.com/Chai20759/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Chai20759/LeetCode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/Chai20759/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Chai20759/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Chai20759/LeetCode/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Chai20759/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Chai20759/LeetCode/tree/master/0217-contains-duplicate) |
 ## Counting
 |  |
 | ------- |
